@@ -1,4 +1,4 @@
-var util = require('./util');
+var util = require('util');
 var restify = require('restify');
 var http = require('http');
 var EventEmitter = require('events').EventEmitter;
